@@ -115,10 +115,6 @@ The RTC provides timestamp information for logged vehicle data and system events
 
 ## Hardware Testing
 
-<p align="center">
-  <img src="Images/aks_hardware_test.png" alt="AKS Hardware Test" width="700">
-</p>
-
 The board was tested for power distribution, communication interfaces, peripheral integration and system operation.
 
 <p align="center">
