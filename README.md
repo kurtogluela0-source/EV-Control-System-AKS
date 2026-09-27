@@ -1,5 +1,7 @@
 # EV Control System (AKS)
-![AKS PCB](Images/aks_pcb_top.jpeg)
+<p align="center">
+  <img src="Images/aks_pcb_top.jpeg" alt="AKS PCB" width="700">
+</p>
 Custom vehicle control system PCB developed for an electric vehicle project.
 
 ## Overview
