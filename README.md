@@ -11,7 +11,19 @@ The AKS (Araç Kontrol Sistemi) is a custom vehicle control and monitoring board
 The system integrates vehicle communication, telemetry, data logging, power management and control interfaces on a single embedded hardware platform.
 
 ## Key Features
+## PCB Design
 
+### 3D View
+
+<p align="center">
+  <img src="Images/aks_pcb_3d.png" alt="AKS PCB 3D View" width="700">
+</p>
+
+### PCB Layout
+
+<p align="center">
+  <img src="Images/aks_pcb_layout.png" alt="AKS PCB Layout" width="700">
+</p>
 - ATmega2560-based control architecture
 - CAN Bus communication using MCP2515
 - GSM telemetry using SIM800C
