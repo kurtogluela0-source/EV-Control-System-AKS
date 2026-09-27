@@ -115,7 +115,7 @@ The RTC provides timestamp information for logged vehicle data and system events
 
 ## Hardware Testing
 
-The board was tested for power distribution, communication interfaces, peripheral integration and system operation.
+The board was evaluated through power verification, communication interface testing, peripheral integration and vehicle-level system testing.
 
 <p align="center">
   <img src="Images/aks_hardware_test_2.jpeg" alt="AKS Hardware Test 2" width="700">
@@ -158,6 +158,6 @@ My responsibilities in the project included:
 
 ## Project Status
 
-The project was developed as a hardware prototype for an electric vehicle control system.
+The project was designed, manufactured, tested and integrated as part of an electric vehicle development process.
 
-The PCB was designed, manufactured and evaluated within the vehicle development process.
+The current prototype demonstrates vehicle communication, telemetry, data logging, power distribution and control interface integration.
